@@ -1,0 +1,3 @@
+# my portfolio
+
+Hey! Welcome to my portfolio, it's currently under construction...
