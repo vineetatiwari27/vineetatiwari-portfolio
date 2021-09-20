@@ -1,5 +1,6 @@
 body{
     background-color: #151a16;
+    overflow-x: hidden;
 }
 .header-h{
     background-color:#60a673 ;
@@ -9,9 +10,9 @@ body{
     margin: 30px 30px;
 }
 .vin-h{
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    margin-bottom: 70px;
-    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 30px;
+    font-size: 20px;
     
 }
 li{
@@ -36,7 +37,8 @@ li{
 }
 .nav-h a:hover{
 
-color:lawngreen;
+    
+    color:#60a673
 }
 .nav-h a.active {
     border-bottom: 3px solid #60a673;
@@ -54,7 +56,7 @@ color:lawngreen;
    } 
    
    .container2 {
-       width:90%;
+       width:100%;
        height:auto;
        padding-left:20px;
    }
@@ -64,6 +66,60 @@ color:lawngreen;
        font-family: 'Courier New', Courier, monospace;
        font-size: 2em;
        color: #f2f2f2;
+       padding-bottom: 230px;
        
    }
-   
+   .att1{
+       text-align: center;
+       background-color:#60a673;
+       padding-top: 10px;
+       padding-bottom: 10px;
+       border-radius: 2em;
+   }
+   p
+   {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:20px;
+   }
+   .att2{
+    text-align: center;
+    background-color: #60a673;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 2em;
+   }
+   .attri{
+       color:black;
+       font-size: 2em;
+   }
+   .link-pri{
+    background-color: black;
+    color: #60a673;
+    text-decoration: none;
+    padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: medium;
+  border-radius: 2em;
+   }
+   .profile{
+       margin-top: 100px;
+       padding-top: 20px;
+       text-align: center;
+       background-color: black;
+       color: #60a673;
+       padding-bottom: 80px;
+   }
+   #web{
+       color:#333;
+   }
+   .logo
+   {
+       
+       color: #f2f2f2;
+       padding-right:40px;
+       font-size: large;
+   }
