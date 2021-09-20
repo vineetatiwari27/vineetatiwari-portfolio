@@ -44,39 +44,26 @@ color:lawngreen;
   .nav-h li{
       display: inline;
   }
-  .bodimg{
-      width:500px;
-      float: right;
-  }
-  .quote{
-      float:left;
-      width:700px;
-      height: 500px;
-      padding-left: 20px;
-      color:#f2f2f2;
-      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-      font-size: 40px;
-    }
-    .down{
-       padding:350px ;
+  .iconDetails {
+    margin-left:2%;
+    display: block;
+    padding-right: 200px;
+   float: left;
+   height:400px;
+   width:500px;	
+   } 
+   
+   .container2 {
+       width:90%;
+       height:auto;
+       padding-left:20px;
+   }
+   
+   
+   .quote{
+       font-family: 'Courier New', Courier, monospace;
+       font-size: 2em;
+       color: #f2f2f2;
        
-    }
-    .nav-d a{
-        text-decoration: none;
-        font-size: 30px;
-        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        color:#60a673;
-        border-radius: 2em;
-        
-    }
-    .nav-d p{
-        color: #f2f2f2;
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        display: block ;
-    }
-    .list{
-        padding-right:200px ;
-    }
-    .sizi{
-        background-color: #60a673;
-    }
+   }
+   
