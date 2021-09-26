@@ -3,7 +3,7 @@ body{
     overflow-x: hidden;
 }
 .header-h{
-    background-color:#60a673 ;
+    background-color: #f2f2f2 ;
     text-align: center;
     border-radius: 2em;
     padding-top: 10px;
@@ -71,7 +71,7 @@ li{
    }
    .att1{
        text-align: center;
-       background-color:#60a673;
+       background-color: #f2f2f2;
        padding-top: 10px;
        padding-bottom: 10px;
        border-radius: 2em;
@@ -83,7 +83,7 @@ li{
    }
    .att2{
     text-align: center;
-    background-color: #60a673;
+    background-color: #f2f2f2;
     margin-top: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -122,4 +122,31 @@ li{
        color: #f2f2f2;
        padding-right:40px;
        font-size: large;
+   }
+   .see{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: #f2f2f2;
+    padding-bottom: 20px;
+   }
+   .first{
+    text-align: center;
+    background-color: #333;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-radius: 2em;
+    color:#f2f2f2;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   }
+   .firstLink{
+    background-color: black;
+    color: #60a673;
+    text-decoration: none;
+    padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: medium;
+  border-radius: 2em;
    }
